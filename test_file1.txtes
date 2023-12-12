@@ -1,0 +1,9 @@
+- This is just for fun and games
+- We are testing push and pull.
+
+touch <name-of-file> 	# creates new file
+nano <name-of-file>	# edits file 
+
+
+-- We are making some changes in order to attempt to push again and be forced
+to git pull instead 
