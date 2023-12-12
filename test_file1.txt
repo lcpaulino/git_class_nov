@@ -1,0 +1,5 @@
+- This is just for fun and games
+- We are testing push and pull.
+
+touch <name-of-file> 	# creates new file
+nano <name-of-file>	# edits file 
